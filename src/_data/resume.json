@@ -30,13 +30,13 @@
         ],
     "education": [
         {
-            "institution": "University of Florida",
-            "area": "Mathematics",
-            "studyType": "Master of Science",
+            "institution": "Madurai Kamaraj University",
+            "area": "Information Technology & Management",
+            "studyType": "Master of Studies",
             "studyTypeShort": "M.S.",
-            "startDate": "2015",
-            "endDate": "2017",
-            "focus": "Discrete Mathematics"
+            "startDate": "2000",
+            "endDate": "2002",
+            "focus": "Computer Sciece and Management"
         }
 
     ]
