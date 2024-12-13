@@ -1,0 +1,11 @@
+<header>
+  <h1>
+    {{ basics.name }}
+    <br>
+    <span>{{ basics.label }}</span>
+  </h1>
+  {% 
+    include "components/address.liquid", 
+    basics: basics 
+  %}
+</header>

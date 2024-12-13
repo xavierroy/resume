@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" 
+    content="width=device-width, initial-scale=1">
+  <style>
+    {%- include "styles.css" -%}
+  </style>
+  <title>
+    Resume of 
+    {{ resume.basics.name }}, 
+    {{ resume.basics.label }}
+  </title>
+</head>
+<body>
+  {% 
+    include "components/header.liquid", 
+    basics: resume.basics
+  %}
+  <main>
+    {% 
+      include "components/summary.liquid", 
+      summary: resume.basics.summary 
+    %}
+    {% 
+      include "components/experience.liquid", 
+      work: resume.work
+    %}
+    {% 
+      include "components/education.liquid", 
+      education: resume.education
+    %}
+  </main>
+</body>
+
+</html>
