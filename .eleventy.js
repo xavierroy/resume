@@ -6,7 +6,7 @@ export default function(eleventyConfig) {
   return {
     dir: {
       input: "./src",
-      output: "./resume"
+      output: "./_site"
     }
   };
 };
