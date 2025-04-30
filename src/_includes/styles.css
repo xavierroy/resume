@@ -89,7 +89,7 @@ body {
           right: 0.5pt;
         }
 
-        &[href*='michaelengen.com']::after {
+        &[href*='xavierroy.in']::after {
           content: '🌐';
         }
 
