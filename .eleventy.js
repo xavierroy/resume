@@ -3,10 +3,11 @@ export default function(eleventyConfig) {
     'layout', 
     './layouts/index.liquid' // Relative to `./src/_includes`
   );
+  eleventyConfig.addPassthroughCopy("./src/assets");
   return {
     dir: {
       input: "./src",
-      output: "././_site"
+      output: "./_site"
     }
   };
 };
