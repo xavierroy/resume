@@ -1,6 +1,56 @@
+:root {
+  /* Rosé Pine Dawn theme colors (light mode) */
+  --base: #faf4ed;
+  --surface: #fffaf3;
+  --overlay: #f2e9e1;
+  --muted: #9893a5;
+  --subtle: #797593;
+  --text: #575279;
+  --love: #b4637a;
+  --gold: #ea9d34;
+  --rose: #d7827e;
+  --pine: #286983;
+  --foam: #56949f;
+  --iris: #907aa9;
+  /* Add fluid typography variables */
+  --fs-sm: clamp(0.8rem, 0.17vw + 0.76rem, 0.89rem);
+  --fs-base: clamp(1rem, 0.34vw + 0.91rem, 1.19rem);
+  --fs-md: clamp(1.25rem, 0.61vw + 1.1rem, 1.58rem);
+  --fs-lg: clamp(1.56rem, 1vw + 1.31rem, 2.11rem);
+  --fs-xl: clamp(1.95rem, 1.56vw + 1.56rem, 2.81rem);
+  --fs-xxl: clamp(2.44rem, 2.38vw + 1.85rem, 3.75rem);
+  /* Add spacing variables */
+  --space-xs: clamp(0.75rem, 1vw, 1rem);
+  --space-sm: clamp(1rem, 2vw, 1.5rem);
+  --space-md: clamp(1.5rem, 3vw, 2rem);
+  --space-lg: clamp(2rem, 4vw, 3rem);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Rosé Pine Moon theme colors (dark mode) */
+    --base: #232136;
+    --surface: #2a273f;
+    --overlay: #393552;
+    --muted: #6e6a86;
+    --subtle: #908caa;
+    --text: #e0def4;
+    --love: #eb6f92;
+    --gold: #f6c177;
+    --rose: #ea9a97;
+    --pine: #3e8fb0;
+    --foam: #9ccfd8;
+    --iris: #c4a7e7;
+  }
+} 
+
 html {
   font-size: 14pt;
   box-sizing: border-box;
+  background-color: var(--base);
+  color: var(--text);
+  line-height: 1.6;
+  font-size: var(--fs-base);
 }
 
 *,
@@ -89,7 +139,7 @@ body {
           right: 0.5pt;
         }
 
-        &[href*='michaelengen.com']::after {
+        &[href*='xavierroy.in']::after {
           content: '🌐';
         }
 
@@ -134,7 +184,7 @@ body {
       row-gap: 0.75rem;
       column-gap: 1rem;
 
-      border-block-start: 2pt solid #0E2181;
+      border-block-start: 0.05rem solid var(--subtle);
       padding-block-start: 0.75rem;
       padding-inline: 0.5rem;
       margin-inline: 0.25rem;
