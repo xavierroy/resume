@@ -9,7 +9,7 @@
             "region": "TN",
             "countryCode": "IN"
         },
-        "summary": "I am a seasoned Information Experience Professional with over 20 years of experience in crafting user-centric documentation solutions for complex technical concepts. As a Certified Usability Analyst (CUA), I excel in strategic technical documentation development, innovative content engineering, user experience design, and cross-functional team leadership and transformation.",
+        "summary": "Accomplished Information Experience professional with 20 years of expertise in technical documentation, content strategy, and user experience design. Skilled in creating user guides, online help systems, video tutorials, and innovative learning solutions. Adept at strategic planning, content engineering, and leading cross-functional teams to deliver impactful documentation initiatives. Proven ability to drive content excellence, improve user engagement, and support product success through high-quality, user-centered content.",
         "profiles": [
             {
                 "network": "in/xavierroy",
@@ -17,27 +17,242 @@
             }
         ]
     },
-    "work": [
-        {
-            "name": "Genesys",
-            "position": "Manager, Information Experience",
-            "startDate": "2017",
-            "endDate": "Present",
-            "highlights": [
-                "TO BE FILLED"
-            ]
-        }
-        ],
-    "education": [
-        {
-            "institution": "Madurai Kamaraj University",
-            "area": "Information Technology & Management",
-            "studyType": "Master of Studies",
-            "studyTypeShort": "M.S.",
-            "startDate": "2000",
-            "endDate": "2002",
-            "focus": "Computer Sciece and Management"
-        }
-
-    ]
+  "work": [
+    {
+      "company": "Genesys Telecom Labs",
+      "position": "Manager/Staff Techncial Writer",
+      "startDate": "2017-05",
+      "endDate": "2025-02",
+      "summary": "Led and managed a high-performing team of technical writers and platform engineers across multiple product lines. Built, mentored, and coached teams through professional development, advanced technical writing techniques, and new technologies. Developed and implemented transition plans to support organizational changes, minimizing disruption and ensuring business continuity. Spearheaded recruitment efforts: screened, interviewed, and onboarded new Information Experience team members.   Managed multiple concurrent documentation projects ensuring timely, high-quality delivery. Designed and executed EOL (End-of-Life) documentation strategies for cloud and on-premise products. Oversaw end-to-end release management for release notes, ensuring delivery to customer access points and packaged software.  Developed comprehensive user assistance deliverables across diverse product lines. Strategically restructured documentation to enhance usability, findability, and comprehension. Pioneered DITA transformation for the organization by implementing content strategies, creating customized templates, and developing DITA best practice guidelines. Innovated MediaWiki templates, reusable boilerplates, and content models to streamline authoring and improve consistency.  Collaborated with cross-functional teams (engineering, UX, product management, marketing) to create cohesive documentation solutions. Partnered with video production teams to develop feature demonstrations, storyboards, and technical scripts. Actively supported DEI initiatives like Rebel Girls and GIBC by organizing and leading cultural and literary programs.  Defined and implemented editorial workflows, style guides, and document review processes to ensure content quality and consistency. Drove platform enhancements like fullscreen editing, Mermaid diagram support, and improvements to the internal MintyDocs platform. Participated in organizational hackathons to drive innovation in the Information Experience domain.  Founded and ran \"radIX Day,\" a conference dedicated to advancing the practice of technical writing. Led the internal communications content track, overseeing strategy for newsletters, podcasts, and web portals. Conducted usability analysis, journey mapping, and wireframing to improve user interfaces for legacy-to-web application transitions. Designed and delivered online help systems, user manuals, and marketing collateral for software, telecom, and OSS domains. Delivered usability reviews for websites and multimedia projects, enhancing user engagement and customer experience."
+    },
+    {
+      "company": "Light & Wonder",
+      "position": "Lead Technical Writer and Technical Editor",
+      "startDate": "2006-07",
+      "endDate": "2017-04",
+      "summary": ""
+    },
+    {
+      "company": "Wipro Technologies",
+      "position": "Technical Writer",
+      "startDate": "2004-06",
+      "endDate": "2006-07",
+      "summary": ""
+    },
+    {
+      "company": "HTC Global Services",
+      "position": "Technical Communicator",
+      "startDate": "2004-03",
+      "endDate": "2004-05",
+      "summary": ""
+    },
+    {
+      "company": "Angler Technologies",
+      "position": "Sr. Content Developer & Project Coordinator",
+      "startDate": "2002-04",
+      "endDate": "2004-04",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Human Factors International",
+      "area": "Usability Analysis",
+      "studyType": "Certified Usability Analyst (CUA)"
+    },
+    {
+      "institution": "Madurai Kamaraj University",
+      "area": "Information Technology & Management",
+      "studyType": "M.S."
+    },
+    {
+      "institution": "Bharathiar University",
+      "area": "Computer Science",
+      "studyType": "B.Sc."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Technical Documentation",
+      "keywords": [
+        "Adobe FrameMaker",
+        "Adobe RoboHelp",
+        "DITA",
+        "Acrolinx"
+      ]
+    },
+    {
+      "name": "Content Strategy",
+      "keywords": [
+        "Content Engineering"
+      ]
+    },
+    {
+      "name": "Image Editing",
+      "keywords": [
+        "SnagIt",
+        "Paint.NET",
+        "Lucidchart",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "name": "Office Tools",
+      "keywords": [
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Video Tools",
+      "keywords": [
+        "Camtasia"
+      ]
+    },
+    {
+      "name": "Versioning",
+      "keywords": [
+        "Git",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "XML",
+        "Hugo",
+        "Static Site Generators"
+      ]
+    },
+    {
+      "name": "Content Management",
+      "keywords": [
+        "WordPress",
+        "MediaWiki",
+        "Dokuwiki",
+        "Drupal"
+      ]
+    },
+    {
+      "name": "Prototyping",
+      "keywords": [
+        "PowerPoint",
+        "Visio",
+        "Figma",
+        "Pencil",
+        "Paper Sketching"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "PHP",
+        "Python",
+        "Cargo"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": [
+        "NotebookLM",
+        "Ollama",
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "CoPilot"
+      ]
+    },
+    {
+      "name": "User Experience (UX) Design",
+      "keywords": []
+    },
+    {
+      "name": "User Guides",
+      "keywords": []
+    },
+    {
+      "name": "Online Help",
+      "keywords": []
+    },
+    {
+      "name": "Video Tutorials",
+      "keywords": []
+    },
+    {
+      "name": "Information Architecture",
+      "keywords": []
+    },
+    {
+      "name": "Content Structuring",
+      "keywords": []
+    },
+    {
+      "name": "Cross-functional Team Leadership",
+      "keywords": []
+    },
+    {
+      "name": "Collaboration",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "keywords": []
+    },
+    {
+      "name": "Quality Assurance",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Content Improvement",
+      "keywords": []
+    },
+    {
+      "name": "Customer-Centric Content Development",
+      "keywords": []
+    },
+    {
+      "name": "Knowledge Base Management",
+      "keywords": []
+    },
+    {
+      "name": "Self-Service Portal Management",
+      "keywords": []
+    },
+    {
+      "name": "Localization",
+      "keywords": []
+    },
+    {
+      "name": "Globalization",
+      "keywords": []
+    },
+    {
+      "name": "Stakeholder Management",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "keywords": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Design Thinking in 3 Steps",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "AWS Concepts",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Foundational Artificial Intelligence",
+      "issuer": "NASSCOM Foundation"
+    }
+  ],
+  "projects": []
 }
