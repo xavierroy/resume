@@ -3,7 +3,7 @@
         "name": "Xavier Roy",
         "label": "I help people understand software better.",
         "email": "xavier@xavierroy.com",
-        "url": "xavierroy.in",
+        "url": "xavierroy.cv",
         "location": {
             "city": "Chennai",
             "region": "TN",
@@ -14,6 +14,10 @@
             {
                 "network": "in/xavierroy",
                 "url": "https://www.linkedin.com/in/xavierroy/"
+            },
+            { 
+              "network": "github/xavierroy",
+              "url": "https://github.com/xavierroy"
             }
         ]
     },
