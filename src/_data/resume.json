@@ -24,7 +24,7 @@
   "work": [
     {
       "company": "Genesys Telecom Labs",
-      "position": "Manager/Staff Techncial Writer",
+      "position": "Manager/Staff Technical Writer",
       "startDate": "2017-05",
       "endDate": "2025-02",
       "summary": "Led and managed a high-performing team of technical writers and platform engineers across multiple product lines. Built, mentored, and coached teams through professional development, advanced technical writing techniques, and new technologies. Developed and implemented transition plans to support organizational changes, minimizing disruption and ensuring business continuity. Spearheaded recruitment efforts: screened, interviewed, and onboarded new Information Experience team members.   Managed multiple concurrent documentation projects ensuring timely, high-quality delivery. Designed and executed EOL (End-of-Life) documentation strategies for cloud and on-premise products. Oversaw end-to-end release management for release notes, ensuring delivery to customer access points and packaged software.  Developed comprehensive user assistance deliverables across diverse product lines. Strategically restructured documentation to enhance usability, findability, and comprehension. Pioneered DITA transformation for the organization by implementing content strategies, creating customized templates, and developing DITA best practice guidelines. Innovated MediaWiki templates, reusable boilerplates, and content models to streamline authoring and improve consistency.  Collaborated with cross-functional teams (engineering, UX, product management, marketing) to create cohesive documentation solutions. Partnered with video production teams to develop feature demonstrations, storyboards, and technical scripts. Actively supported DEI initiatives like Rebel Girls and GIBC by organizing and leading cultural and literary programs.  Defined and implemented editorial workflows, style guides, and document review processes to ensure content quality and consistency. Drove platform enhancements like fullscreen editing, Mermaid diagram support, and improvements to the internal MintyDocs platform. Participated in organizational hackathons to drive innovation in the Information Experience domain.  Founded and ran \"radIX Day,\" a conference dedicated to advancing the practice of technical writing. Led the internal communications content track, overseeing strategy for newsletters, podcasts, and web portals. Conducted usability analysis, journey mapping, and wireframing to improve user interfaces for legacy-to-web application transitions. Designed and delivered online help systems, user manuals, and marketing collateral for software, telecom, and OSS domains. Delivered usability reviews for websites and multimedia projects, enhancing user engagement and customer experience."
@@ -81,6 +81,8 @@
       "keywords": [
         "Adobe FrameMaker",
         "Adobe RoboHelp",
+"Madcap Flare",
+"Oxygen XML",
         "DITA",
         "Acrolinx"
       ]
