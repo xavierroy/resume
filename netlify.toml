@@ -1,3 +1,10 @@
+# Temporary redirect
+[[redirects]]
+  from = "/"
+  to = "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1D3zxC736UiB_HbTSbH13131M2vST9_HhPL2ruKqHMhk/export?format=pdf"
+  status = 302
+
+# Downloadable resumes
 [[redirects]]
   from = "/pdf"
   to = "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1D3zxC736UiB_HbTSbH13131M2vST9_HhPL2ruKqHMhk/export?format=pdf"
