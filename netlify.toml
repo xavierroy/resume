@@ -2,3 +2,13 @@
   from = "/pdf"
   to = "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1D3zxC736UiB_HbTSbH13131M2vST9_HhPL2ruKqHMhk/export?format=pdf"
   status = 302
+
+[[redirects]]
+  from = "/doc"
+  to = "https://docs.google.com/document/d/1D3zxC736UiB_HbTSbH13131M2vST9_HhPL2ruKqHMhk/export?format=docx"
+  status = 302
+
+[[redirects]]
+  from = "/markdown"
+  to = "https://docs.google.com/document/d/1D3zxC736UiB_HbTSbH13131M2vST9_HhPL2ruKqHMhk/export?format=md"
+  status = 302
